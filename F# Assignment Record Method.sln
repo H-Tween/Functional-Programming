@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "F# Assignment Record Method", "F# Assignment Record Method\F# Assignment Record Method.fsproj", "{B7978215-1E0C-4435-A0CC-FC435E71D23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7978215-1E0C-4435-A0CC-FC435E71D23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7978215-1E0C-4435-A0CC-FC435E71D23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7978215-1E0C-4435-A0CC-FC435E71D23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7978215-1E0C-4435-A0CC-FC435E71D23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04779E16-A92F-4EC9-8EF7-38120CBED4B9}
+	EndGlobalSection
+EndGlobal

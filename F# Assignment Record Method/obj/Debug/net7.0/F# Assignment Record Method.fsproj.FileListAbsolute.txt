@@ -1,0 +1,29 @@
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\F# Assignment Record Method.exe
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\F# Assignment Record Method.deps.json
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\F# Assignment Record Method.runtimeconfig.json
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\F# Assignment Record Method.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\F# Assignment Record Method.pdb
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.fsproj.AssemblyReference.cache
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.AssemblyInfoInputs.cache
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.AssemblyInfo.fs
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.fsproj.CoreCompileInputs.cache
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.fsproj.CopyComplete
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\refint\F# Assignment Record Method.dll
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.pdb
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\F# Assignment Record Method.genruntimeconfig.cache
+C:\Users\spgaw\source\repos\F# Assignment Record Method\F# Assignment Record Method\obj\Debug\net7.0\ref\F# Assignment Record Method.dll

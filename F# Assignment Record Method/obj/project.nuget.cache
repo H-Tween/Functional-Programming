@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cY2gowLL2akYJz5ibcNviPBlbJm1GblZMLTsQtXNkGKW0syOtoP/guazoX4o4iNtgCAc7pk8dVIZq42/dC6+cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spgaw\\source\\repos\\F# Assignment Record Method\\F# Assignment Record Method\\F# Assignment Record Method.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spgaw\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
